@@ -5,6 +5,6 @@ an exception.
 
 ## Table of contents
 - [Linear Algebra](https://github.com/vu-duy-tung/Mathematic-for-machine-learning/tree/main/linear-algebra)
-- [Probability and Statistic]()
+- [Probability and Statistic](https://github.com/vu-duy-tung/Mathematic-for-machine-learning/tree/main/Probability%20%26%20Statistic)
 - [Discrete Mathematic](https://github.com/vu-duy-tung/Mathematic-for-machine-learning/tree/main/discrete-math)
 
